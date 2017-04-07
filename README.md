@@ -26,10 +26,11 @@
 * [`klist`](#klist) - lists cached Kerberos tickets or keys in a keytab file.
 * [`ldapwhoami`](#ldapwhoami) - .
 * [`ldapsearch`](#ldapsearch) - .
-* [`ldapmodify`](#ldapmodify) - .
-* [`ldapdelete`](#ldapdelete) - .
+* [`ldapmodify`](#ldapmodify) - make changes to an ldap entry.
+* [`ldapdelete`](#ldapdelete) - remove an ldap entry.
 
 ## day01
+### Bash Commands
 * [`sh`](#sh) - runs a bash ".sh" file.
 * [`./`](#./) - also runs a bash ".sh" file.
 * [`groups`](#groups) - .
@@ -44,9 +45,8 @@
 
 
 ## day02
+### C Commands
 * [`gcc`](#gcc) - .
-* [`Norminator`](#Norminator) - .
-* [`ldapwhoami`](#ldapwhoami) - .
 
 
 ## day03
