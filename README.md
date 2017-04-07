@@ -10,22 +10,22 @@
 * [`git`](#git) uploads the current directory to git repository.
 
 ### Text Editors
-* [`nano`](#nano) - simple text editor.
-* [`vim`](#vim) - advanced text editor.
-* [`emacs`](#emacs) - expert text editor.
+* [`nano`](#nano) simple text editor.
+* [`vim`](#vim) advanced text editor.
+* [`emacs`](#emacs) expert text editor.
 
 ### Boolean Operators
-* [`cut`](#cut) - .
-* [`grep`](#grep) - .
-* [`sort`](#sort) - .
-* [`awk`](#awk) - .
+* [`cut`](#cut) cut out selected portions of text from each line of a file.
+* [`grep`](#grep) select only lines of text that match the search criteria.
+* [`sort`](#sort) sort lines of text.
+* [`awk`](#awk) scan and process text.
 
 ### Networking
-* [`klist`](#klist) - lists cached Kerberos tickets or keys in a keytab file.
-* [`ldapwhoami`](#ldapwhoami) - displays current user's LDAP info.
-* [`ldapsearch`](#ldapsearch) - searches entries on an LDAP server.
-* [`ldapmodify`](#ldapmodify) - make changes to an LDAP entry.
-* [`ldapdelete`](#ldapdelete) - remove an LDAP entry.
+* [`klist`](#klist) lists cached Kerberos tickets or keys in a keytab file.
+* [`ldapwhoami`](#ldapwhoami) displays current user's LDAP info.
+* [`ldapsearch`](#ldapsearch) searches entries on an LDAP server.
+* [`ldapmodify`](#ldapmodify) make changes to an LDAP entry.
+* [`ldapdelete`](#ldapdelete) remove an LDAP entry.
 
 ## Day01
 ### Bash Commands
