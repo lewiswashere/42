@@ -1,4 +1,6 @@
 ## 42 Cheatsheet
+
+## day00
 ### Files & Folders
 * [`pwd`](#pwd) - displays path of current directory.
 * [`ls`](#ls) - displays names of files and folders in the current directory.
@@ -12,7 +14,9 @@
 * [`vim`](#vim) - advanced text editor.
 * [`emacs`](#emacs) - expert text editor.
 
-## day00
+
+
+
 * [`find`](#find) - search for files.
 * [`chmod`](#chmod) - change permissions of a file or folder.
 * [`klist`](#klist) - lists cached Kerberos tickets or keys in a keytab file.
