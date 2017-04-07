@@ -13,7 +13,7 @@
 * [emacs](#emacs) - expert text editor in the terminal.
 
 ### day00
-* [sh](#sh) - runs a bash ".sh" file.
+* [`sh`](#sh) - runs a bash ".sh" file.
 * [./](#./) - also runs a bash ".sh" file.
 
 ### day01
