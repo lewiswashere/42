@@ -1,5 +1,3 @@
-# 42 Cheatsheet
-
 ## Day00
 ### Files & Folders
 * [`pwd`](#pwd) - displays path of current directory.
