@@ -1,13 +1,13 @@
 ## Day00
 ### Files & Folders
-* [`pwd`](#pwd) - displays path of current directory.
-* [`ls`](#ls) - displays names of files and folders in the current directory.
-* [`find`](#find) - search for files.
-* [`mkdir`](#mkdir) - creates a new directory.
-* [`touch`](#touch) - creates a new file.
-* [`chmod`](#chmod) - change permissions of a file or folder.
-* [`cat`](#cat) - displays the text contents of a file.
-* [`git`](#git) - uploads the current directory to git repository.
+* [`pwd`](#pwd) displays path of current directory.
+* [`ls`](#ls) displays names of files and folders in the current directory.
+* [`find`](#find) search for files.
+* [`mkdir`](#mkdir) creates a new directory.
+* [`touch`](#touch) creates a new file.
+* [`chmod`](#chmod) change permissions of a file or folder.
+* [`cat`](#cat) displays the text contents of a file.
+* [`git`](#git) uploads the current directory to git repository.
 
 ### Text Editors
 * [`nano`](#nano) - simple text editor.
