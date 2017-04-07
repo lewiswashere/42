@@ -68,9 +68,12 @@
 
 # Commands
 ## pwd
+* `pwd`: displays path of current directory.
 ## ls
 * `ls -a`: displays all files, folders, and hidden items in current directory.
 * `ls -la`: displays detailed information about all files and folders in current directory.
+## find
+* `find [query]`: displays path of current directory.
 ## mkdir
 ## touch
 ## cat:
