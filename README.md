@@ -22,12 +22,12 @@
 
 ### Networking
 * [`klist`](#klist) - lists cached Kerberos tickets or keys in a keytab file.
-* [`ldapwhoami`](#ldapwhoami) - .
-* [`ldapsearch`](#ldapsearch) - .
-* [`ldapmodify`](#ldapmodify) - make changes to an ldap entry.
-* [`ldapdelete`](#ldapdelete) - remove an ldap entry.
+* [`ldapwhoami`](#ldapwhoami) - displays current user's LDAP info.
+* [`ldapsearch`](#ldapsearch) - searches entries on an LDAP server.
+* [`ldapmodify`](#ldapmodify) - make changes to an LDAP entry.
+* [`ldapdelete`](#ldapdelete) - remove an LDAP entry.
 
-## day01
+## Day01
 ### Bash Commands
 * [`sh`](#sh) - runs a bash ".sh" file.
 * [`./`](#./) - also runs a bash ".sh" file.
@@ -42,22 +42,29 @@
 * [`*`](#*) - .
 
 
-## day02
+## Day02
 ### C Commands
 * [`gcc`](#gcc) - .
 
 
 ## day03
-* [`ldapwhoami`](#ldapwhoami) - .
-* [`ldapwhoami`](#ldapwhoami) - .
-* [`ldapwhoami`](#ldapwhoami) - .
-
 ## day04
-* [`ldapwhoami`](#ldapwhoami) - .
-* [`ldapwhoami`](#ldapwhoami) - .
-* [`ldapwhoami`](#ldapwhoami) - .
-
-
+## day05
+## day06
+## day07
+## day08
+## day09
+## day10
+## day11
+## day12
+## day13
+## day14
+## day15
+## day16
+## day17
+## day18
+## day19
+## day20
 
 # Commands
 ## pwd
