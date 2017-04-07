@@ -4,8 +4,10 @@
 ### Files & Folders
 * [`pwd`](#pwd) - displays path of current directory.
 * [`ls`](#ls) - displays names of files and folders in the current directory.
+* [`find`](#find) - search for files.
 * [`mkdir`](#mkdir) - creates a new directory.
 * [`touch`](#touch) - creates a new file.
+* [`chmod`](#chmod) - change permissions of a file or folder.
 * [`cat`](#cat) - displays the text contents of a file.
 * [`git`](#git) - uploads the current directory to git repository.
 
@@ -14,21 +16,18 @@
 * [`vim`](#vim) - advanced text editor.
 * [`emacs`](#emacs) - expert text editor.
 
-
-
-
-* [`find`](#find) - search for files.
-* [`chmod`](#chmod) - change permissions of a file or folder.
-* [`klist`](#klist) - lists cached Kerberos tickets or keys in a keytab file.
+### Boolean Operators
 * [`cut`](#cut) - .
 * [`grep`](#grep) - .
 * [`sort`](#sort) - .
 * [`awk`](#awk) - .
+
+### Networking
+* [`klist`](#klist) - lists cached Kerberos tickets or keys in a keytab file.
 * [`ldapwhoami`](#ldapwhoami) - .
 * [`ldapsearch`](#ldapsearch) - .
 * [`ldapmodify`](#ldapmodify) - .
 * [`ldapdelete`](#ldapdelete) - .
-
 
 ## day01
 * [`sh`](#sh) - runs a bash ".sh" file.
