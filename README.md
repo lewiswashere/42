@@ -1,6 +1,6 @@
 ## Terminal Cheatsheet
 ### Files & Folders
-* pwd: displays path of current directory.
+* [pwd](#pwd) : displays path of current directory.
 * ls: displays names of files and folders in the current directory.
 * mkdir: creates a new directory.
 * touch: creates a new file.
