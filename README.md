@@ -1,4 +1,7 @@
 # 42 -  Silicon Valley
+### Index
+* cat
+	* cat -e
 ## Terminal Cheatsheet
 ### *cat:*
 * `cat [file]`: displays the text contents of a file in the terminal.
