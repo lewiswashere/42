@@ -1,4 +1,4 @@
-## Terminal Cheatsheet
+## 42 Cheatsheet
 ### Files & Folders
 * [`pwd`](#pwd) - displays path of current directory.
 * [`ls`](#ls) - displays names of files and folders in the current directory.
@@ -8,18 +8,55 @@
 * [`git`](#git) - uploads the current directory to git repository.
 
 ### Text Editors
-* [`nano`](#nano) - simple text editor in the terminal.
-* [`vim`](#vim) - advanced text editor in the terminal.
-* [`emacs`](#emacs) - expert text editor in the terminal.
+* [`nano`](#nano) - simple text editor.
+* [`vim`](#vim) - advanced text editor.
+* [`emacs`](#emacs) - expert text editor.
 
-### day00
+## day00
+* [`find`](#find) - search for files.
+* [`chmod`](#chmod) - change permissions of a file or folder.
+* [`klist`](#klist) - lists cached Kerberos tickets or keys in a keytab file.
+* [`cut`](#cut) - .
+* [`grep`](#grep) - .
+* [`sort`](#sort) - .
+* [`awk`](#awk) - .
+* [`ldapwhoami`](#ldapwhoami) - .
+* [`ldapsearch`](#ldapsearch) - .
+* [`ldapmodify`](#ldapmodify) - .
+* [`ldapdelete`](#ldapdelete) - .
+
+
+## day01
 * [`sh`](#sh) - runs a bash ".sh" file.
 * [`./`](#./) - also runs a bash ".sh" file.
+* [`groups`](#groups) - .
+* [`tr`](#tr) - .
+* [`wc`](#wc) - .
+* [`ifconfig`](#ifconfig) - .
+* [`rev`](#rev) - .
+* [`sed`](#sed) - .
+* [`printf`](#printf) - .
+* [`$`](#$) - .
+* [`*`](#*) - .
 
-### day01
-* [`groups`](#groups)
-* [`ifconfig`](#ifconfig)
-* [`ldapsearch`](ldapsearch)
+
+## day02
+* [`gcc`](#gcc) - .
+* [`Norminator`](#Norminator) - .
+* [`ldapwhoami`](#ldapwhoami) - .
+
+
+## day03
+* [`ldapwhoami`](#ldapwhoami) - .
+* [`ldapwhoami`](#ldapwhoami) - .
+* [`ldapwhoami`](#ldapwhoami) - .
+
+## day04
+* [`ldapwhoami`](#ldapwhoami) - .
+* [`ldapwhoami`](#ldapwhoami) - .
+* [`ldapwhoami`](#ldapwhoami) - .
+
+
 
 # Commands
 ## pwd
@@ -46,11 +83,3 @@
 ## groups
 ## ifconfig
 ## ldapsearch
-
-
-
-## day00 Commands
-
- groups
-
-#🌴42
