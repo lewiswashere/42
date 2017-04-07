@@ -1,7 +1,11 @@
 # 42
 
-## Terminal Cheatsheet
-groups
+# Terminal Cheatsheet
+## cat
+Show ‘$’ at the end of each line:
+`cat -e`
+
+### groups
 
 
 
