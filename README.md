@@ -1,6 +1,6 @@
-## 42 Cheatsheet
+# 42 Cheatsheet
 
-## day00
+## Day00
 ### Files & Folders
 * [`pwd`](#pwd) - displays path of current directory.
 * [`ls`](#ls) - displays names of files and folders in the current directory.
